@@ -1,0 +1,10 @@
+pseudo code {
+
+working code() {
+// Sample working code
+}
+
+feature1() {
+// Sample feature 1 code
+}
+}
