@@ -1,5 +1,0 @@
-pseudo code {
-
-// This is where all features will be committed before merging to master branch
-
-}
