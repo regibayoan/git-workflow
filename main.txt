@@ -4,4 +4,7 @@ pseudo code {
 // This only changes every 25th of every month
 // Only the dev branch can merge with master branch
 
+working code() {
+// Sample working code
+}
 }
